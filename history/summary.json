@@ -58,19 +58,19 @@
     "url": "https://homestocompare.com/",
     "icon": "https://icons.duckduckgo.com/ip3/homestocompare.com.ico",
     "slug": "h2c",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 700,
-    "timeWeek": 619,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 555,
+    "timeDay": 530,
+    "timeWeek": 586,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {
-      "2023-07-17": 0
+      "2023-07-17": 35
     }
   },
   {
