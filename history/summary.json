@@ -6,26 +6,28 @@
     "slug": "new-hhh",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 450,
     "timeWeek": 499,
     "timeMonth": 530,
     "timeYear": 529,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-09": 2
+    }
   },
   {
     "name": "Regular hhh",
     "url": "https://househunthero.com/",
     "icon": "https://icons.duckduckgo.com/ip3/househunthero.com.ico",
     "slug": "regular-hhh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
@@ -33,17 +35,19 @@
     "timeWeek": 500,
     "timeMonth": 523,
     "timeYear": 577,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-09": 2
+    }
   },
   {
     "name": "Hacker News",
     "url": "https://propertysquares.com",
     "icon": "https://icons.duckduckgo.com/ip3/propertysquares.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 534,
@@ -51,17 +55,19 @@
     "timeWeek": 473,
     "timeMonth": 538,
     "timeYear": 534,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-09": 1
+    }
   },
   {
     "name": "h2c",
     "url": "https://homestocompare.com/",
     "icon": "https://icons.duckduckgo.com/ip3/homestocompare.com.ico",
     "slug": "h2c",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
     "time": 526,
@@ -70,6 +76,7 @@
     "timeMonth": 525,
     "timeYear": 526,
     "dailyMinutesDown": {
+      "2023-08-09": 1,
       "2023-07-17": 35
     }
   },
@@ -96,9 +103,9 @@
     "url": "https://www.buenavistahomes.eu/en/",
     "icon": "https://icons.duckduckgo.com/ip3/www.buenavistahomes.eu.ico",
     "slug": "bvh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +114,8 @@
     "timeWeek": 1012,
     "timeMonth": 1025,
     "timeYear": 1020,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-09": 0
+    }
   }
 ]
