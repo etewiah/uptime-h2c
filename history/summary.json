@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/new.househunthero.com.ico",
     "slug": "new-hhh",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 523,
-    "timeDay": 745,
-    "timeWeek": 522,
-    "timeMonth": 517,
+    "timeDay": 510,
+    "timeWeek": 516,
+    "timeMonth": 516,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2023-08-09": 19
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 564,
-    "timeDay": 718,
-    "timeWeek": 515,
-    "timeMonth": 505,
-    "timeYear": 564,
+    "time": 565,
+    "timeDay": 568,
+    "timeWeek": 517,
+    "timeMonth": 506,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2023-08-09": 19
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 682,
-    "timeWeek": 494,
-    "timeMonth": 511,
-    "timeYear": 526,
+    "time": 525,
+    "timeDay": 493,
+    "timeWeek": 487,
+    "timeMonth": 506,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2023-08-09": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.90%",
-    "time": 518,
-    "timeDay": 685,
+    "time": 519,
+    "timeDay": 555,
     "timeWeek": 507,
     "timeMonth": 507,
-    "timeYear": 518,
+    "timeYear": 519,
     "dailyMinutesDown": {
       "2023-08-09": 18,
       "2023-07-17": 35
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 714,
-    "timeWeek": 551,
+    "timeDay": 549,
+    "timeWeek": 550,
     "timeMonth": 536,
     "timeYear": 544,
     "dailyMinutesDown": {}
@@ -109,11 +109,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1031,
-    "timeDay": 1404,
-    "timeWeek": 1100,
-    "timeMonth": 1033,
-    "timeYear": 1031,
+    "time": 1035,
+    "timeDay": 1216,
+    "timeWeek": 1116,
+    "timeMonth": 1040,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2023-08-09": 17
     }
